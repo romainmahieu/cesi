@@ -14,3 +14,12 @@ https://zestedesavoir.com/tutoriels/621/algorithmique-pour-lapprenti-programmeur
 https://www.educastream.com/denombrement-terminale-s
 
 https://embed.api.video/vod/vi4oWacFfNktfbqOP5NXw4Oa
+https://embed.api.video/vod/vi4kQ4uYj0wss8yK3QbtlTxi
+https://embed.api.video/vod/vi5PEmyaER2wdA97jbCkq955
+
+https://www.positron-libre.com/cours/electronique/logique-combinatoire/fonctions-logiques/variable-logique.php
+https://www.positron-libre.com/cours/electronique/logique-combinatoire/fonctions-logiques/fonctions-logiques.php
+https://www.positron-libre.com/cours/electronique/logique-combinatoire/fonctions-logiques/representation-fonction.php
+https://www.positron-libre.com/cours/electronique/logique-combinatoire/fonctions-logiques/fonction-ou.php
+
+
