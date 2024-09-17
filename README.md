@@ -8,3 +8,9 @@ Dossier personnel
 
 dossiers du personnel.pdf [pdf]
 Un malheur n'arrivant jamais seul, une tempête va bientôt s'abattre sur la station. Tout le monde doit être amené aux abris au plus tard dans 3 heures. Cependant, réunir l'ensemble des humains aux abris équivaut à libérer l'Ylla avec le risque qu'il y ait d'autres victimes, voire pire, qu'il prenne le contrôle du vaisseau et prenne la direction de la Terre.
+
+https://zestedesavoir.com/tutoriels/621/algorithmique-pour-lapprenti-programmeur/400_premiers-exemples-de-structures-de-donnees-et-dalgorithmes-courants/2023_une-classe-dalgorithme-non-naifs-diviser-pour-regner/
+
+https://www.educastream.com/denombrement-terminale-s
+
+https://embed.api.video/vod/vi4oWacFfNktfbqOP5NXw4Oa
